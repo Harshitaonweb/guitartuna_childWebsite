@@ -13,8 +13,5 @@ function App() {
 }
 
 export default App;
-// FIle
-// Section
-// server problem
-// react router dom
-// tailwind
+//WEB
+//LL
