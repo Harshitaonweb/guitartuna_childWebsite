@@ -8,3 +8,4 @@ export default {
 //set always to avoid error
 //error solved
 //error
+// solved
