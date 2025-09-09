@@ -4,9 +4,4 @@ export default {
     autoprefixer: {},
   },
 };
-//reset
-//set always to avoid error
-//error solved
-//error
-// solved
-//denial
+//hamp
