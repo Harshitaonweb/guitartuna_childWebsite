@@ -10,6 +10,7 @@ export default function Home() {
             <h2 className="text-4xl font-bold sm:text-5xl">
               Download Now
               <span className="hidden sm:block text-4xl">Lorem Ipsum</span>
+              ˀˀ{" "}
             </h2>
 
             <Link
